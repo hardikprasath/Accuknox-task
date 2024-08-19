@@ -1,0 +1,51 @@
+.navbar-widget {
+    max-width: 100%;
+    height: 35px;
+    background-color: rgb(52, 52, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding-left: 8px;
+    padding-right: 6px;
+}
+
+.widget-close{
+    cursor: pointer;
+}
+
+.paragraph-content{
+    padding: 20px 15px;
+    margin: 5px 0px;
+}
+
+.widget-tab{
+    max-width: 100%;
+    width: 100%;
+    border: 2px solid #e1e1e1;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.widget-input{
+    margin: 5px;
+    margin-left: 0px;
+}
+.lists-wid{
+    margin: 5px 0px;
+}
+.lists-wid h3 {
+    margin: 5px 0px;
+    text-align: center;
+}
+.frm-wid h3 {
+    text-align: center;
+    margin: 20px 0px;
+}
+.btn-act {
+    text-align: end;
+    margin: 20px 0px;
+}
+.MuiBackdrop-root.MuiModal-backdrop.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+    background-color: transparent !important;
+}
